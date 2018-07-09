@@ -1,0 +1,9 @@
+C:\Users\nivet\source\repos\ViberentDemo_Interview\ViberentDemo_Interview\bin\ViberentDemo_Interview.dll.config
+C:\Users\nivet\source\repos\ViberentDemo_Interview\ViberentDemo_Interview\bin\ViberentDemo_Interview.dll
+C:\Users\nivet\source\repos\ViberentDemo_Interview\ViberentDemo_Interview\bin\ViberentDemo_Interview.pdb
+C:\Users\nivet\source\repos\ViberentDemo_Interview\ViberentDemo_Interview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nivet\source\repos\ViberentDemo_Interview\ViberentDemo_Interview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nivet\source\repos\ViberentDemo_Interview\ViberentDemo_Interview\obj\Debug\ViberentDemo_Interview.csprojResolveAssemblyReference.cache
+C:\Users\nivet\source\repos\ViberentDemo_Interview\ViberentDemo_Interview\obj\Debug\ViberentDemo_Interview.csproj.CoreCompileInputs.cache
+C:\Users\nivet\source\repos\ViberentDemo_Interview\ViberentDemo_Interview\obj\Debug\ViberentDemo_Interview.dll
+C:\Users\nivet\source\repos\ViberentDemo_Interview\ViberentDemo_Interview\obj\Debug\ViberentDemo_Interview.pdb
